@@ -1,9 +1,9 @@
-title: dj-kata's profile
+title: kata's profile
 markdown: kramdown
 
 # for atom feed
 author:
-  name: かた (kata)
+  name: kata
   email: k.katasan@outlook.com
 
 plugins:
