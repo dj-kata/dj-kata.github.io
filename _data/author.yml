@@ -1,22 +1,18 @@
-name: kaze / Jun Kawahara
-dp: /assets/icons/kaze.png
+name: かた / kata
+dp: /assets/icons/tanuki_face.png
 description: "
   <p>
     かた (kata)
   </p>
   <br/>
   <p>
-     ほげほげ
+     音ゲー(beatmania IIDX)とアプリ開発に勤しむ謎の動物。ごくたまに楽器(Gt / Key)も弾く。
   </p>
 "
 contact:
   - title: twitter
     url: https://twitter.com/cold_planet_
   - title: github
-    url: https://github.com/kaze3desu
-  - title: note
-    url: https://note.com/kaze3desu
-  - title: youtrust
-    url: https://youtrust.jp/users/kaze3desu
-  - title: email
-    url: mailto:kawahara3.exe@gmail.com
+    url: https://github.com/dj-kata
+  - title: youtube
+    url: https://www.youtube.com/@kata_iidx
