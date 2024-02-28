@@ -1,10 +1,13 @@
-title: kata's profile
+title: kaze's Portfolio
+description: コーポレートエンジニアの kaze について紹介するページです。
 markdown: kramdown
+url: "https://kaze3desu.github.io"
+image: /assets/icons/socialpreview.png
 
 # for atom feed
 author:
-  name: kata
-  email: k.katasan@outlook.com
+  name: kaze / Jun Kawahara
+  email: kawahara3.exe@gmail.com
 
 plugins:
   - jemoji

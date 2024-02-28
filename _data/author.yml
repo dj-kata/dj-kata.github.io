@@ -1,18 +1,23 @@
-name: dj-kata
-dp: /assets/icons/tanuki_face.png
+name: kaze / Jun Kawahara
+dp: /assets/icons/kaze.png
 description: "
   <p>
-    $B2;%2!<$H$+Ff%"%W%j3+H/$H$+$K6P$7$`CK!#$I$&$V$D$,9%$-!#$4$/$?$^$K3Z4o(B(Key/Gt)$B$bCF$/!#(B
+    コーポレートエンジニアの kaze です。
   </p>
   <br/>
   <p>
-    language: JP / EN
-  </p>
+    現在は東京の企業にて、熊本からフルリモートで仕事をしています。
+  </P>
 "
+email: kawahara3.exe@gmail.com
 contact:
   - title: twitter
-    url: https://twitter.com/cold_planet_
+    url: https://twitter.com/kaze3desu
   - title: github
-    url: https://github.com/dj-kata
-  - title: YouTube
-    url: https://www.youtube.com/@kata_iidx
+    url: https://github.com/kaze3desu
+  - title: note
+    url: https://note.com/kaze3desu
+  - title: youtrust
+    url: https://youtrust.jp/users/kaze3desu
+  - title: email
+    url: mailto:kawahara3.exe@gmail.com
