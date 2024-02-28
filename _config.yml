@@ -1,8 +1,8 @@
-title: kaze's Portfolio
-description: コーポレートエンジニアの kaze について紹介するページです。
+title: たぬきの部屋
+description: 音ゲー(IIDX)や謎のアプリ開発にいそしむ男。ごくまれに楽器演奏(Gt/Key)。
 markdown: kramdown
-url: "https://kaze3desu.github.io"
-image: /assets/icons/socialpreview.png
+url: "https://dj-kata.github.io"
+image: /assets/icons/tanuki_face.png
 
 # for atom feed
 author:
