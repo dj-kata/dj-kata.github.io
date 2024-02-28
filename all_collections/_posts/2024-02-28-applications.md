@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 作成したアプリについて
-date: 2024-2-28 10:18:00
+date: 2024-02-28
 categories: [fiction, jekyll]
 ---
 
