@@ -1,9 +1,10 @@
-title: tanuki's portfolio
+title: Jekyll Serial Programmer
 markdown: kramdown
 
 # for atom feed
 author:
-  name: かた / kata
+  name: Sharad Raj Singh Maurya
+  email: dev_sharad@outlook.com
 
 plugins:
   - jemoji
