@@ -2,21 +2,17 @@ name: dj-kata
 dp: /assets/icons/tanuki_face.png
 description: "
   <p>
-    Developed by Sharad Raj who lives in India building useful things for the world.
+    音ゲーとか謎アプリ開発とかに勤しむ男。どうぶつが好き。ごくたまに楽器(Key/Gt)も弾く。
   </p>
   <br/>
   <p>
-    You should follow him on <a href='https://github.com/sharadcodes' target='_blank'>Github</a>
-  </P>
+    language: JP / EN
+  </p>
 "
 contact:
-  - title: linkedin
-    url: https://www.linkedin.com/in/srsmaurya
-  - title: github
-    url: https://github.com/sharadcodes
   - title: twitter
-    url: https://twitter.com/iamsharadraj
-  - title: dev
-    url: https://dev.to/sharadcodes
-  - title: email
-    url: mailto:dev_sharad@outlook.com
+    url: https://twitter.com/cold_planet_
+  - title: github
+    url: https://github.com/dj-kata
+  - title: YouTube
+    url: https://www.youtube.com/@kata_iidx
