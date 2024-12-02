@@ -15,3 +15,4 @@ categories: [自作アプリ, python]
 |[oraja_helper](https://github.com/dj-kata/oraja_helper)|beatorajaにおけるプレーログ・ノーツ数などの表示およびOBSソース切り替え|
 |[ytlive\_helper](https://github.com/dj-kata/ytlive_helper)|YoutubeLiveのコメントを拾って動作するお題箱|
 
+~~INFINITAS、SDVXを最近ほとんどやっていないのでoraja_helper以外のサポートは大分ペース遅いです~~
