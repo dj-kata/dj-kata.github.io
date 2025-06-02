@@ -14,5 +14,6 @@ categories: [自作アプリ, python]
 |[sdvx\_helper](https://github.com/dj-kata/sdvx_helper)|コナステSDVXの曲情報表示、リザルト自動保存、VF集計、OBSソース切り替えなど|
 |[oraja_helper](https://github.com/dj-kata/oraja_helper)|beatorajaにおけるプレーログ・ノーツ数などの表示およびOBSソース切り替え|
 |[ytlive\_helper](https://github.com/dj-kata/ytlive_helper)|YoutubeLiveのコメントを拾って動作するお題箱|
+|[Otoge Input Viewer](https://github.com/dj-kata/otoge_input_viewer)|IIDX/SDVXのコントローラの入力をOBSに表示するツール|
 
 ~~INFINITAS、SDVXを最近ほとんどやっていないのでoraja_helper以外のサポートは大分ペース遅いです~~
