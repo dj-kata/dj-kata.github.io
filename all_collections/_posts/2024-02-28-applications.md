@@ -15,5 +15,7 @@ categories: [自作アプリ, python]
 |[oraja_helper](https://github.com/dj-kata/oraja_helper)|beatorajaにおけるプレーログ・ノーツ数などの表示およびOBSソース切り替え|
 |[ytlive\_helper](https://github.com/dj-kata/ytlive_helper)|YoutubeLiveのコメントを拾って動作するお題箱|
 |[Otoge Input Viewer](https://github.com/dj-kata/otoge_input_viewer)|IIDX/SDVXのコントローラの入力をOBSに表示するツール|
+|||
+|[2356_clock](https://github.com/dj-kata/obs_misc/tree/main/2356_clock#readme)|23時56分に光る謎のデジタル時計|
 
 ~~INFINITAS、SDVXを最近ほとんどやっていないのでoraja_helper以外のサポートは大分ペース遅いです~~
